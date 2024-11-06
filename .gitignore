@@ -1,0 +1,1 @@
+"/node_modules .DS_Store .env *.log *.tmp *.swp *.swo .vscode coverage build dist .cache" 
