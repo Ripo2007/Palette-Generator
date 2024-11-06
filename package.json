@@ -11,7 +11,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "framer-motion": "^6.0.0",
-    "lucide-react": "^0.30.0",
+    "lucide-react": "^0.40.0", // Asegúrate de usar una versión compatible
     "next": "^12.0.0",
     "react-scripts": "^4.0.0"
   },
@@ -19,3 +19,4 @@
     "typescript": "^4.5.0"
   }
 }
+
